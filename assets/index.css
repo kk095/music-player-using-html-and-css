@@ -344,9 +344,9 @@ height:100%;
     overflow-x: scroll;
 }
 .artist{
-    height:100px;
-    flex: 0 0 100px;
-    width:100px;
+    height:150px;
+    flex: 0 0 150px;
+    width:150px;
     display: flex;
     flex-direction: column;
     justify-content: space-between;
@@ -362,8 +362,8 @@ height:100%;
     visibility: visible;
 }
 .artist img{
-    width: 100%;
-    aspect-ratio: 1/1;
+    width: 85%;
+    height: 85%;
     border-radius: 50%;
 }
 .artist h5{
